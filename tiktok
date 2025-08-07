@@ -168,13 +168,14 @@
 0.0.0.0 xlog.tiktokv.com
 0.0.0.0 xlog.tiktokv.com.edgesuite.net
 0.0.0.0 tiktok.com
-0.0.0.0 *.tiktok.com
+0.0.0.0 .tiktok.com
 0.0.0.0 tiktokv.com
-0.0.0.0 *.tiktokv.com
+0.0.0.0 .tiktokv.com
 0.0.0.0 byteoversea.com
-0.0.0.0 *.byteoversea.com
+0.0.0.0 .byteoversea.com
 0.0.0.0 ibytedtos.com
-0.0.0.0 *.ibytedtos.com
+0.0.0.0 .ibytedtos.com
 0.0.0.0 muscdn.com
-0.0.0.0 *.muscdn.com
+0.0.0.0 .muscdn.com
+0.0.0.0 .muscdn.com
 
